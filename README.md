@@ -1,3 +1,8 @@
+# Navigation
+(For Github newbies)
+
+The links in the table above will take you to the subpages.
+
 # Guinea Pig Roster
 
 ## Top Cage
