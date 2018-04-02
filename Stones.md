@@ -1,6 +1,6 @@
 # Stones
 
-[Guinea Lynx: Bladder Stones]{http://www.guinealynx.info/stones.html}
+[Guinea Lynx: Bladder Stones](http://www.guinealynx.info/stones.html)
 
 ## Belle
 
