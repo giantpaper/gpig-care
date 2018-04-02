@@ -43,3 +43,9 @@ The links in the table above will take you to the subpages.
 ### Past
 - Ovarian Cysts
 	- TREATMENT: Spay
+	
+## Cookie
+
+### Past
+- Had a close encounter with ovarian cysts (elongated nipples)
+	- TREATMENT: Switched from previous pellet brand (which had soy) to Sherwood. Nipples went back to normal
