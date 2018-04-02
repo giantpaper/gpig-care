@@ -11,7 +11,7 @@
 ### Treatment #1
 - Baytril for one week, Benebac (1g) 3 hours after
 
-(After UTI treatment)
+*(After UTI treatment)*
 
 ### Signs #2
 - Still whined and strained while doing #1
@@ -19,9 +19,13 @@
 - An x-ray showed a tiny bladder stone
 
 ### Treatment #2
-- 1/2 a capsule of crystal stone formula for 3 months
+- 1/2 a capsule of [crystal stone formula](http://franklintnvet.com/cystitis-and-stones-in-dogs-cats-and-horses/) for 3 months
 - Baytril for one week to treat the UTI, Benebac (1g) 3 hours after
 
 ### Future Preventative Measures
 - Sherwood urinary supplement (1 tablet in the morning, 1 tablet at night)
 - 1 syringe of ChildLife Liquid Vitamin C
+
+## More Info
+
+[Bladder Stone Questions](http://www.guinealynx.info/stones_questions.html)
