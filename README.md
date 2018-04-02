@@ -14,13 +14,15 @@ The links in the table above will take you to the subpages.
 - **Belle:** black & tan (spayed female)
 - **Bianca:** white with pink eyes (spayed female)
 
-# Medical Needs
+# Medical Needs/History
 
 ## Butter
+
 ### Past
 - Had an abscess after neuter and 2 seromas
 	- TREATMENT: Lots of warm-packing along with 2x Vitamin C
-- Had misshapen poops that went back to normal after switching from previous pellet brand to Sherwood
+- Had misshapen poops
+	- TREATMENT: Switched from previous pellet brand to Sherwood
 
 ### Ongoing
 - Dry eyes (diagnosed by cavy-savvy vet)
