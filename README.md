@@ -9,27 +9,10 @@
 - **Belle:** black & tan
 - **Bianca:** white with pink eyes
 
-# Routine
+# Medical Needs
 
-## Morning
-1. Hay
-2. Vitamin C -- NOT OPTIONAL
-	- ChildLife (1 syringe ea.) for top cage
-	- Oxbow cookie (1 ea.) for bottom cage
-3. *[Butter only]* eye drops -- 1 or 2 drops in each eye
-4. *[Belle only]*
-	- 1 urinary tablet
-	- 1 syringe of ChildLife Vitamin C
-
-## Afternoon
-1. Pellets
-	- (1 scoop each)
-2. Check water bottles
-
-## Night
-1. Salads
-2. *[Butter only]* eye drops -- 1 or 2 drops in each eye
-3. *[Belle only]* 1 urinary tablet
-4. Vitamin C -- NOT OPTIONAL
-	- ChildLife (1 syringe ea.) for top cage
-	- Oxbow cookie (1 ea.) for bottom cage
+- Butter: 1-2 eyedrops in each eye 2x day
+- Belle:
+	- 1 urinary tablet 2x day
+	- 1 syringe of ChildLife Liquid Vitamin C in the morning
+	- Crystal Stone Formula 1x day (till June 21)
