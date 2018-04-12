@@ -23,8 +23,10 @@
 - Baytril for one week to treat the UTI, Benebac (1g) 3 hours after
 
 ### Future Preventative Measures
-- Sherwood urinary supplement (1 tablet in the morning, 1 tablet at night)
+- Urinary supplement (1 tablet in the morning, 1 tablet at night)
 - 1 syringe of ChildLife Liquid Vitamin C
+- Renavive (found on Amazon)
+- Diet change (low calcium pellets, veggies, etc)
 
 ## More Info
 
