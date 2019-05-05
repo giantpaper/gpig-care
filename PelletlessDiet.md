@@ -11,7 +11,7 @@
 
 ### Oxalates
 
-Oxalates decreases calcium absorption. So pick veggies with higher calcium and lower oxalates. [1]
+Oxalates decreases calcium absorption. So pick veggies with higher calcium and lower oxalates. [1][1]
 
 ### Vitamin D
 
@@ -27,17 +27,19 @@ Oxalates decreases calcium absorption. So pick veggies with higher calcium and l
 
 ##### Sunlight Exposure
 
-> "Just to be clear, the range of UV light necessary to stimulate the production of Vit D in the skin DOES NOT pass through window glass. So, it doesn't matter whether a room is bright or dark if there's glass in the window." [2]
+> "Just to be clear, the range of UV light necessary to stimulate the production of Vit D in the skin DOES NOT pass through window glass. So, it doesn't matter whether a room is bright or dark if there's glass in the window." [2][2]
 
 <http://www.guinealynx.info/forums/viewtopic.php?t=56913>
 
 ### Hypervitaminosis D
 
-> "I'd just urge caution. D is a fat-soluble vitamin and stored in the body. I'd be reaaalllll worried about an eventual toxic buildup if the supplemented amount was more than truly miniscule." [3][4]
+> "I'd just urge caution. D is a fat-soluble vitamin and stored in the body. I'd be reaaalllll worried about an eventual toxic buildup if the supplemented amount was more than truly miniscule." [3][3] [4][4]
 
 Can be deadly.
 
 <http://www.guinealynx.info/records/viewtopic.php?f=28&t=225>
+
+--
 
 [1]: https://www.reddit.com/r/vegan/comments/amy3sm/help_me_find_calcium_rich_foods_to_raise_my/efpfujh/
 [2]: http://www.guinealynx.info/forums/viewtopic.php?t=63293
