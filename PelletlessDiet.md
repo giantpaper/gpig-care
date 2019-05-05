@@ -19,7 +19,7 @@ Oxalates decreases calcium absorption. So pick veggies with higher calcium and l
 
 ##### Supplementation
 
-
+(Unsure of max level to give.)
 
 ##### UV Lights
 
@@ -32,7 +32,6 @@ Oxalates decreases calcium absorption. So pick veggies with higher calcium and l
 <http://www.guinealynx.info/forums/viewtopic.php?t=56913>
 
 ### Hypervitaminosis D
-(No idea what the max level of Vit D is for a guinea pig right now.)
 
 > "I'd just urge caution. D is a fat-soluble vitamin and stored in the body. I'd be reaaalllll worried about an eventual toxic buildup if the supplemented amount was more than truly miniscule." [3][4]
 
