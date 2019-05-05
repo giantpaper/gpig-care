@@ -28,6 +28,10 @@
 - Renavive (found on Amazon)
 - Diet change (low calcium pellets, veggies, etc)
 
+## Butter
+- Blood in pee
+- Straining to poop
+
 ## More Info
 
 [Bladder Stone Questions](http://www.guinealynx.info/stones_questions.html)
