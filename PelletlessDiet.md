@@ -11,7 +11,9 @@
 
 ### Oxalates
 
-Oxalates decreases calcium absorption. So pick veggies with higher calcium and lower oxalates. [fn-1] [1]
+Oxalates decreases calcium absorption. So pick veggies with higher calcium and lower oxalates. [src][1]
+
+[1]: https://www.reddit.com/r/vegan/comments/amy3sm/help_me_find_calcium_rich_foods_to_raise_my/efpfujh/
 
 ### Vitamin D
 
@@ -27,21 +29,19 @@ Oxalates decreases calcium absorption. So pick veggies with higher calcium and l
 
 ##### Sunlight Exposure
 
-> "Just to be clear, the range of UV light necessary to stimulate the production of Vit D in the skin DOES NOT pass through window glass. So, it doesn't matter whether a room is bright or dark if there's glass in the window." [fn-2] [2]
+> "Just to be clear, the range of UV light necessary to stimulate the production of Vit D in the skin DOES NOT pass through window glass. So, it doesn't matter whether a room is bright or dark if there's glass in the window." [src][2]
+
+[2]: http://www.guinealynx.info/forums/viewtopic.php?t=63293
 
 <http://www.guinealynx.info/forums/viewtopic.php?t=56913>
 
 ### Hypervitaminosis D
 
-> "I'd just urge caution. D is a fat-soluble vitamin and stored in the body. I'd be reaaalllll worried about an eventual toxic buildup if the supplemented amount was more than truly miniscule." [fn-3] [3] [fn-4] [4]
+> "I'd just urge caution. D is a fat-soluble vitamin and stored in the body. I'd be reaaalllll worried about an eventual toxic buildup if the supplemented amount was more than truly miniscule." [src][3] [src][4]
+
+[3]: http://www.guinealynx.info/forums/viewtopic.php?p=1951523#p1951523
+[4]: https://web.archive.org/web/20111022052948/http://www.ext.colostate.edu/pubs/foodnut/09315.html
 
 Can be deadly.
 
 <http://www.guinealynx.info/records/viewtopic.php?f=28&t=225>
-
---
-
-[1]: https://www.reddit.com/r/vegan/comments/amy3sm/help_me_find_calcium_rich_foods_to_raise_my/efpfujh/
-[2]: http://www.guinealynx.info/forums/viewtopic.php?t=63293
-[3]: http://www.guinealynx.info/forums/viewtopic.php?p=1951523#p1951523
-[4]: https://web.archive.org/web/20111022052948/http://www.ext.colostate.edu/pubs/foodnut/09315.html
